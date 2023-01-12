@@ -1,5 +1,5 @@
 ### Meu nome Robert Luiz e eu sou um Software Engineer 👋
-<img src="https://github-readme-stats.vercel.app/api?username=robertlsc2016&count_private=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertlsc2016)](https://github.com/robertlsc2016/github-readme-stats)
 <!--
 **robertlsc2016/robertlsc2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
