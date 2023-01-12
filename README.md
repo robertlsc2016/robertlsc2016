@@ -1,6 +1,5 @@
 
 ## Oi, meu nome Robert Luiz e eu sou um Software Engineer
-<hr />
 
 ### LinkedIn
 
@@ -33,8 +32,3 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-<img src="" style="margin: 5px"/>
-<img src="" style="margin: 5px"/>
-<img src="" style="margin: 5px"/>
-<img src="" style="margin: 5px"/><img src="" style="margin: 5px"/><img src="" style="margin: 5px"/><img src="" style="margin: 5px"/><img src="" style="margin: 5px"/><img src="" style="margin: 5px"/><img src="" style="margin: 5px"/>
