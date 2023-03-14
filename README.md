@@ -37,4 +37,4 @@
 
 ### Projetos
 
-- ToupperCase: https://to-upper-case.vercel.app/ [HTML - CSS - JS]
+- ToupperCase: https://to-upper-case.vercel.app/ <b>[HTML - CSS - JS] </b>
